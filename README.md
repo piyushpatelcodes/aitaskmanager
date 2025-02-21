@@ -4,10 +4,18 @@
 This is a **Next.js** project built with **React, TypeScript, and Clerk authentication**. It includes:
 - ✅ **Server-side and Client-side rendering**
 - ✅ **Authentication with Clerk**
+-
+
+<img width="947" alt="皮尤什·帕特尔代码 Screenshot 2025-02-20 090739" src="https://github.com/user-attachments/assets/eafba393-669f-41e1-b155-01dd9fd3f267" />
+
+### Dashboard Page
+
+  <img width="946" alt="皮尤什·帕特尔代码 Screenshot 2025-02-21 151857dasdbrd" src="https://github.com/user-attachments/assets/d45331b6-1a52-4a7f-b0e3-79c2991b477c" />
+
+
 - ✅ **API Integration**
 - ✅ **Responsive UI with Tailwind CSS**
 
-   <img width="947" alt="Screenshot 2025-02-20 090739" src="https://github.com/user-attachments/assets/54e38617-8ef3-4882-97da-22b0cb33c41b" />
 
 
  
